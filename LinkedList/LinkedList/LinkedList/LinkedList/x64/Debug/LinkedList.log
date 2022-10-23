@@ -1,0 +1,9 @@
+﻿  LinkedList.c
+C:\Users\Administrator\OneDrive\바탕 화면\Github\Algorithm\LinkedList\LinkedList\LinkedList\LinkedList\LinkedList.c(17,16): warning C4090: '=': 'const' 한정자가 서로 다릅니다.
+LinkedList.obj : error LNK2019: PrintMemberPrintCurrent 함수에서 참조되는 확인할 수 없는 외부 기호
+LinkedList.obj : error LNK2019: PrintLnMemberPrint 함수에서 참조되는 확인할 수 없는 외부 기호
+LinkedListTest.obj : error LNK2019: MemberNoCmpmain 함수에서 참조되는 확인할 수 없는 외부 기호
+LinkedListTest.obj : error LNK2019: MemberNameCmpmain 함수에서 참조되는 확인할 수 없는 외부 기호
+LinkedListTest.obj : error LNK2019: ScanMembermain 함수에서 참조되는 확인할 수 없는 외부 기호
+LinkedListTest.obj : error LNK2019: InserFrontmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\Administrator\OneDrive\바탕 화면\Github\Algorithm\LinkedList\LinkedList\LinkedList\x64\Debug\LinkedList.exe : fatal error LNK1120: 6개의 확인할 수 없는 외부 참조입니다.
