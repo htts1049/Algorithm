@@ -1,0 +1,31 @@
+﻿  ArrayLinkedListTest.c
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedListTest.c(84,46): warning C4047: '!=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedListTest.c(93,48): warning C4047: '!=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  ArrayLinkedList.c
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(10,27): warning C4047: '==': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(22,27): warning C4047: '==': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(24,28): warning C4047: '=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(44,19): warning C4047: '=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(45,19): warning C4047: '=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(46,18): warning C4047: '=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(47,22): warning C4047: '=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(54,20): warning C4047: '!=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(62,13): warning C4047: 'return': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(76,24): warning C4047: '==': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(80,35): warning C4047: '!=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(83,47): warning C4047: '함수': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(83,43): warning C4024: 'SetNode': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(90,24): warning C4047: '!=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(100,24): warning C4047: '!=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(101,39): warning C4047: '==': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(106,36): warning C4047: '!=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(110,28): warning C4047: '=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(120,24): warning C4047: '!=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(137,27): warning C4047: '!=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(139,19): warning C4047: '=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(145,24): warning C4047: '==': 'const Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(161,24): warning C4047: '==': 'const Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\Doit_자료구조와함께배우는알고리즘입문_C언어편_본문소스\C_chap09\ArrayLinkedList.c(166,21): warning C4047: '!=': 'Index'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  Member.c
+  코드를 생성하고 있습니다...
+  ArrayLinkedList.vcxproj -> C:\Users\Administrator\OneDrive\바탕 화면\Github\Algorithm\LinkedList\LinkedList\ArrayLinkedList\x64\Debug\ArrayLinkedList.exe
