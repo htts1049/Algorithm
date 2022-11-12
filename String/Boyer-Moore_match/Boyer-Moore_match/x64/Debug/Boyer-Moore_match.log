@@ -1,0 +1,4 @@
+﻿  Boyer-Moore_match.c
+C:\Users\Administrator\OneDrive\바탕 화면\Github\Algorithm\String\Boyer-Moore_match\Boyer-Moore_match\Boyer-Moore_match.c(12,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\OneDrive\바탕 화면\Github\Algorithm\String\Boyer-Moore_match\Boyer-Moore_match\Boyer-Moore_match.c(13,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Boyer-Moore_match.vcxproj -> C:\Users\Administrator\OneDrive\바탕 화면\Github\Algorithm\String\Boyer-Moore_match\x64\Debug\Boyer-Moore_match.exe
